@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a20ec7b3ba6b18429b73c6a099d60a3, type: 3}
+  m_Name: TemplateLevel 3
+  m_EditorClassIdentifier: 
+  prefab_Level: {fileID: 5542993131933339777, guid: df0cd681fad7e9247a532f02bbf16b18,
+    type: 3}
+  changeSolidColor: 0
+  cameraSolidColor: {r: 0, g: 0, b: 0, a: 0}
+  changeSkyboxMaterial: 0
+  skyboxMaterial: {fileID: 0}
+  changeLightningSkyboxMaterial: 0
+  lightningSkyboxMaterial: {fileID: 0}

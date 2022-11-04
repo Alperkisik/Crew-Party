@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Stickman-Ally
+  - Stickman-Enemy
+  - Gate
+  - Player-Party
+  - Player_Party
+  - Enemy-Party
+  - Glass-Door
+  - Missile
+  - Bullet-Capsule
+  - PlayerCamera
+  - CombatCamera
+  - Boss
+  - LevelFinishCamera
+  - BossFightCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ally
+  - Enemy
+  - Bullet-Capsule
+  - Bullet
+  - Player-Party
+  - Road
+  - Ragdoll
+  - Gate
+  - CombatTrigger
+  - FinishTrigger
+  - Block
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
